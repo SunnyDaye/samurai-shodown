@@ -4,7 +4,7 @@ var Match = new Phaser.Class({
 			this.winner;
 			this.loser;
 			this.scene = scene
-			this.matchTime = 99
+			this.matchTime = 120
 			this.prepTime = 6
 			this.postTime = 6
 			this.time = 0;
